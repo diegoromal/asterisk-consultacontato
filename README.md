@@ -1,6 +1,7 @@
-
+#!/bin/bash
+#
 # Autor: Diego Romanio de Almeida <diego@qosit.com.br>
-# Site: http://www.dialplanreload.com/
+#
 # Repositorio: https://github.com/diegoromanio/
 #
 # Desenvolvido sob licensa GPL. 

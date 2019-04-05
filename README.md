@@ -12,7 +12,7 @@
 # [WARNING] A execucao e por sua conta e risco!
 #
 # Programa feito para utilizar os cadastros de contatos do SNEP para binar o nome cadastrado no telefone, substituindo a variável CALLERID(name);
-# Atentar-se para o tipo de entrada do número (0DDD+NUMERO, DDD+NUMERO, SOMENTE NUMERO), verificar o padrão que sua operadora manda para cadastrar, ou então, cadastrar de várias formas;
+# Atentar-se para o cadastro: utilizar sempre DDD+Numero, também funciona também se cadastrar o ramal interno
 # Cadastrar os Contatos via SNEP CADASTROS -> CONTATOS;
 
 # Como utilizar:

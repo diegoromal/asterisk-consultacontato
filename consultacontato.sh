@@ -12,7 +12,7 @@
 # [WARNING] A execucao e por sua conta e risco!
 #
 
-contactname=$(mysql -u snep -psneppass -h localhost snep -N -e "SELECT name FROM contacts_names where id=(SELECT contact_id FROM contacts_phone WHERE phone='$1');")
+contactname=$(mysql -u snep -psneppass -h localhost snep -N -e "SELECT name FROM contacts_names where id=(SELECT contact_id FROM contacts_phone WHERE phone like '%$1%');")
 
 if ["$contactname" == ""]
 then

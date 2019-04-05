@@ -1,5 +1,3 @@
-#!/bin/bash
-#
 # Autor: Diego Romanio de Almeida <diego@qosit.com.br>
 #
 # Repositorio: https://github.com/diegoromanio/

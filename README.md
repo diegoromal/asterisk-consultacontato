@@ -4,8 +4,7 @@
 #
 # Desenvolvido sob licensa GPL. 
 # Fique a vontade para contribuir com a evolucao deste programa ;)
-#
-#-----------------------------------------------------------------------------------------------
+
 
 [WARNING] A execucao e por sua conta e risco!
 

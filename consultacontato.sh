@@ -14,7 +14,7 @@
 
 contactname=$(mysql -u snep -psneppass -h localhost snep -N -e "SELECT name FROM contacts_names where id=(SELECT contact_id FROM contacts_phone WHERE phone like '%$1%');")
 
-if ["$contactname" == ""]
+if [[ $contactname == '' ]]
 then
         echo "Sem Contato Cadastrado"
 else
